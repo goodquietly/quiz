@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question seconds='10' points='9'>
+    <text>В каком году произошла отмена крепостного права в России?</text>
+    <variants>
+      <variant>1681</variant>
+      <variant>988</variant>
+      <variant right='true'>1861</variant>
+      <variant>1891</variant>
+    </variants>
+  </question>
+
+  <question seconds='7' points='5'>
+    <text>В каком году произошло Крещение Руси?</text>
+    <variants>
+      <variant>968</variant>
+      <variant>889</variant>
+      <variant>898</variant>
+      <variant right='true'>988</variant>
+    </variants>
+  </question>
+
+  <question seconds='8' points='2'>
+    <text>В каком году произошла Битва на реке Калке?</text>
+    <variants>
+      <variant>1323</variant>
+      <variant right='true'>1223</variant>
+      <variant>1332</variant>
+      <variant>1232</variant>
+    </variants>
+  </question>
+
+  <question seconds='15' points='3'>
+    <text>В каком году произошла Битва на Чудском озере (Ледовое побоище)?</text>
+    <variants>
+      <variant>1422</variant>
+      <variant>1224</variant>
+      <variant right='true'>1242</variant>
+      <variant>1245</variant>
+    </variants>
+  </question>
+
+  <question seconds='12' points='7'>
+    <text>В каком году произошла Куликовская битва?</text>
+    <variants>
+      <variant>1830</variant>
+      <variant right='true'>1380</variant>
+      <variant>1390</variant>
+      <variant>1360</variant>
+    </variants>
+  </question>
+
+  <question seconds='5' points='10'>
+    <text>В каком году началась Первая мировая война?</text>
+    <variants>
+      <variant right='true'>1914</variant>
+      <variant>1905</variant>
+      <variant>1939</variant>
+      <variant>1941</variant>
+    </variants>
+  </question>
+
+  <question seconds='7' points='8'>
+    <text>В каком году прошли Февральская и Октябрьская Революции в России?</text>
+    <variants>
+      <variant>1914</variant>
+      <variant>1921</variant>
+      <variant>1905</variant>
+      <variant right='true'>1917</variant>
+    </variants>
+  </question>
+
+</questions>
