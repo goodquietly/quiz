@@ -36,7 +36,7 @@ gem install bundler
 git clone https://github.com/goodquietly/quiz.git
 ````
 
-Находясь в папке с игрой `cd quiz`, установите бибилиотеки:
+Находясь в папке с игрой `cd quiz`, установите библиотеки:
 
 ```
 bundle install
